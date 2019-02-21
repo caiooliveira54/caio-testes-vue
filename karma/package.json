@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "test": "karma start --single-run"
+    },
+    "devDependencies": {
+        "karma": "^4.0.0",
+        "karma-chai": "^0.1.0"
+    }
+}
